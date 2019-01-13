@@ -156,6 +156,8 @@
     <ClInclude Include="problem15.h" />
     <ClInclude Include="problem18.h" />
     <ClInclude Include="problem28.h" />
+    <ClInclude Include="problem30.h" />
+    <ClInclude Include="problem31.h" />
     <ClInclude Include="problem40.h" />
     <ClInclude Include="problem48.h" />
     <ClInclude Include="problem56.h" />
@@ -167,6 +169,8 @@
     <ClCompile Include="problem15.cpp" />
     <ClCompile Include="problem18.cpp" />
     <ClCompile Include="problem28.cpp" />
+    <ClCompile Include="problem30.cpp" />
+    <ClCompile Include="problem31.cpp" />
     <ClCompile Include="problem40.cpp" />
     <ClCompile Include="problem48.cpp" />
     <ClCompile Include="problem56.cpp" />
